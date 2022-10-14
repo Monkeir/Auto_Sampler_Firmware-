@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iarUserArgVars>
+    <group name="Reference" active="true">
+        <variable>
+            <name>xLibMicrocontrollers</name>
+            <value>C:\Users\M\source\repos\serialport\serialport_dotnet\Firmware_CK_cloned\xLibMicrocontrollers</value>
+        </variable>
+        <variable>
+            <name>STM32Cube_FW_F4</name>
+            <value>C:\Users\M\source\repos\serialport\serialport_dotnet\Firmware_CK_cloned\STM32Cube_FW_F4_V1.21.0</value>
+        </variable>
+    </group>
+</iarUserArgVars>

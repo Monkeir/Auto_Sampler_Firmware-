@@ -1,0 +1,14 @@
+{
+    "iar.enabled": true,
+    "files.associations": {
+        "stdint.h": "c",
+        "adc.h": "c",
+        "xtgmath.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "string.h": "c",
+        "xrequests.h": "c",
+        "usart.h": "c",
+        "ck_responses.h": "c",
+        "ck_ports.h": "c"
+    }
+}
